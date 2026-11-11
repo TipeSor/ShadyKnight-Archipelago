@@ -3,7 +3,8 @@
 	<PropertyGroup>
 		<TargetFramework>net47</TargetFramework>
 		<LangVersion>latest</LangVersion>
-	</PropertyGroup>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
 
 	<ItemGroup>
 		<Reference Include="Assembly-CSharp">
